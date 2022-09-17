@@ -11,10 +11,8 @@
 
     <androidx.appcompat.widget.AppCompatImageButton
         android:id="@+id/calculator_show_history_btn"
-        android:layout_width="48dp"
-        android:layout_height="48dp"
+        style="@style/CalculatorIcon"
         android:layout_gravity="end"
-        android:background="@null"
         android:src="@drawable/ic_show_history"
         tools:ignore="SpeakableTextPresentCheck" />
 

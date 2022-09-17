@@ -42,4 +42,11 @@
         <item name="android:textColor">@color/calculator_text_color</item>
     </style>
 
+    <style name="CalculatorIcon" parent="Widget.AppCompat.ImageButton">
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_width">48dp</item>
+        <item name="android:tint">@color/calculator_icon_color</item>
+        <item name="android:background">@null</item>
+    </style>
+
 </resources>

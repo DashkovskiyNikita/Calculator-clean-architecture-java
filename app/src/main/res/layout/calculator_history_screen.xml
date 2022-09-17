@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/calculator_gradient"
+    android:orientation="vertical"
+    android:paddingHorizontal="12dp"
+    android:paddingVertical="12dp">
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        style="@style/CalculatorIcon"
+        android:src="@drawable/ic_arrow_back"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/calculator_history_rv"
+        android:layout_marginTop="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>

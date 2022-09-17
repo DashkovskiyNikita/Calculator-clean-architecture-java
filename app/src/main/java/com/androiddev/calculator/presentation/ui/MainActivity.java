@@ -1,8 +1,10 @@
-package com.androiddev.calculator;
+package com.androiddev.calculator.presentation.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.androiddev.calculator.R;
 
 public class MainActivity extends AppCompatActivity {
 
