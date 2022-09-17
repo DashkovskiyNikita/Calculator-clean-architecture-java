@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Calculator colors F7F5F5 D0AFFA-->
+    <color name="calculator_btn_text_color_1">#FF2C0768</color>
+    <color name="calculator_btn_background_color_1">#FFFFFFFF</color>
+
+    <color name="calculator_btn_text_color_2">#FFFFFFFF</color>
+    <color name="calculator_btn_background_color_2">#D95A00B5</color>
+
+    <color name="calculator_text_color">#FF330260</color>
+    <color name="calculator_icon_color">#FF330260</color>
+
+    <color name="calculator_red">#FFFF9D9D</color>
+    <color name="calculator_center_gradient">#FF7003EB</color>
+    <color name="calculator_blue">#FFD2AFF9</color>
+
+</resources>
