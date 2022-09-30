@@ -13,6 +13,8 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <!--Calculator views styles-->
     
     <style name="CalculatorButton1" parent="Widget.AppCompat.Button">
         <item name="android:textColor">@color/calculator_btn_text_color_1</item>
@@ -32,6 +34,7 @@
         <item name="android:gravity">end|center_vertical</item>
         <item name="android:textSize">60sp</item>
         <item name="android:paddingHorizontal">12dp</item>
+        <item name="android:textStyle">bold</item>
         <item name="android:textColor">@color/calculator_text_color</item>
     </style>
 
@@ -39,6 +42,7 @@
         <item name="android:gravity">end|center_vertical</item>
         <item name="android:textSize">40sp</item>
         <item name="android:paddingHorizontal">12dp</item>
+        <item name="android:textStyle">bold</item>
         <item name="android:textColor">@color/calculator_text_color</item>
     </style>
 

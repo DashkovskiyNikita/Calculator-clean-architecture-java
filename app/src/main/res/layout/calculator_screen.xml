@@ -23,7 +23,6 @@
         tools:text="34+36 ="
         android:layout_marginTop="16dp"
         android:scrollbars="horizontal"
-        android:textStyle="bold"
         style="@style/CalculatorExpressionTextView"
       />
 
@@ -34,7 +33,6 @@
         tools:text="70"
         android:layout_marginTop="13dp"
         android:scrollbars="horizontal"
-        android:textStyle="bold"
         style="@style/CalculatorResultTextView"/>
 
     <GridLayout
